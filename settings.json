@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Hotdog_Mascot",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "Hotdawgs-VKbb.aternos.me:51056",
+    "port": 51056,
     "version": "",
     "try-creative": false
   },
